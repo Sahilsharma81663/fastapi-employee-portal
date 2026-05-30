@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+day1.py
+day2.py
+day3.py
+day4.py
+day5.py
+day6.py
+todo.py
