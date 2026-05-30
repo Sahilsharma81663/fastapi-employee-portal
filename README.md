@@ -1,4 +1,4 @@
-# Day 8 - Employee Management API with Advanced Validation 🚀
+Employee Management API with Advanced Validation 🚀
 
 ## Topics Covered
 
